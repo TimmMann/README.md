@@ -30,4 +30,5 @@
   * Rugby Union
   * Rodeo
   * Shooting
+  * Fishing
   * Hunting
